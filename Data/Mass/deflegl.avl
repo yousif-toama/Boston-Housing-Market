@@ -1,0 +1,45 @@
+/2.1
+(Legend.1
+	Symbol:	2
+	Class:	6
+)
+
+(BMkSym.2
+	Color:	3
+	BgColor:	4
+	Style:	0x02
+	Stipple:	5
+	Size:	8.00000000000000
+	Pattern:	42
+)
+
+(TClr.3
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.4
+	Name:	"Transparent"
+)
+
+(Stipple.5
+	Width:	0.09638554216867
+	Height:	0.09638554216867
+	Columns:	32
+	Rows:	32
+	Bits:	00000000 0007f000 003ffe00 00ffff80 
+	Bits:	01ffffc0 03ffffe0 07fffff0 0ffffff8 
+	Bits:	1ffffffc 1ffffffc 3ffffffe 3ffffffe 
+	Bits:	3ffffffe 7fffffff 7fffffff 7fffffff 
+	Bits:	7fffffff 7fffffff 7fffffff 7fffffff 
+	Bits:	3ffffffe 3ffffffe 3ffffffe 1ffffffc 
+	Bits:	1ffffffc 0ffffff8 07fffff0 03ffffe0 
+	Bits:	01ffffc0 00ffff80 003ffe00 0007f000 
+
+)
+
+(LClass.6
+	IsText:	1
+)
+
